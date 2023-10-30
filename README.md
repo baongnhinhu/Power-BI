@@ -22,4 +22,5 @@ In this course, students will learn how to carry Power BI beyond mere bar charts
 **3. Advanced Data Analysis**<br>
 Using Power BI, the overarching goal of the course is to help students become effective at the process of retrieving, analyzing, and visualizing data in order to answer questions and draw conclusions. After learning about descriptive and inferential statistics, histograms, linear regression, and the concepts of correlation and probability, the course moves into M, the language of Power Query to build custom formulas as part of the data transformation process.  Students then learn the language of DAX to analyze data. The final lesson of the course goes through a number of visualizations in Power BI and explores how those visuals may be used, edited, or enhanced to effectively relay information to an audience. 
 
-![Capture](https://github.com/baongnhinhu/Power-BI/assets/82852784/9a587b64-8f36-46bc-af28-3dfa2bb49160)
+## Nanodegree Certificate
+![Udacity_powerBi](https://github.com/baongnhinhu/Power-BI/assets/82852784/4f0f6045-13e6-41a2-8499-ad3c346c64d1)
