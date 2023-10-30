@@ -15,3 +15,9 @@ Happy analyzing! 📊📈📉
 
 ### 1. Introduction to Preparing and Modeling Data:
 This course is a crucial step in Power BI for anyone who needs to mash together multiple data sources, clean them, restructure them, and harmonize them into a single and efficient data model to support reporting. We’ll cover Power BI’s built-in Extract-Transform-Load (ETL) tool, Power Query, learn foundational data modeling principles, cover some introductory DAX (Data Analytics Expressions), and touch on troubleshooting and optimization. 
+
+### 2. Creating Visualizations with Power BI
+In this course, students will learn how to carry Power BI beyond mere bar charts and transform their reports into data exploration & storytelling tools that companies can use to better understand their data.
+
+### 3. Advanced Data Analysis
+Using Power BI, the overarching goal of the course is to help students become effective at the process of retrieving, analyzing, and visualizing data in order to answer questions and draw conclusions. After learning about descriptive and inferential statistics, histograms, linear regression, and the concepts of correlation and probability, the course moves into M, the language of Power Query to build custom formulas as part of the data transformation process.  Students then learn the language of DAX to analyze data. The final lesson of the course goes through a number of visualizations in Power BI and explores how those visuals may be used, edited, or enhanced to effectively relay information to an audience. 
