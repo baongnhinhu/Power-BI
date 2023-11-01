@@ -8,4 +8,5 @@ Here is a brief overview of the project steps.
 ### Step 1: Get data
 Use files are `CFO Metrics Tracker.xlsx`, `Customer List (as of FY2021).txt`, `SSBC Product Offerings.pdf`, `USD-CAD Exchange Rates.csv`, `Monthly Sales Logs/` downloaded from Udacity and can be found on Datasets/ folder on this repo.
 
-
+### Step 2: Structure, Combine, and Clean the Data
+In this step we will use Power Query to make data cleaning/pre-processing on our datasets
