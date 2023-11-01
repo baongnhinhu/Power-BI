@@ -6,6 +6,6 @@ The objective is to manage the datasets and establish an effective data framewor
 Here is a brief overview of the project steps.
 
 ### Step 1: Get data
-used files are CFO Metrics Tracker.xlsx, Customer List (as of FY2021).txt, SSBC Product Offerings.pdf, USD-CAD Exchange Rates.csv, Monthly Sales Logs/ downloaded from Udacity and can be found on Datasets/ folder on this repo.
+Use files are `CFO Metrics Tracker.xlsx`, `Customer List (as of FY2021).txt`, `SSBC Product Offerings.pdf`, `USD-CAD Exchange Rates.csv`, `Monthly Sales Logs/` downloaded from Udacity and can be found on Datasets/ folder on this repo.
 
 
