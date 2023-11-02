@@ -16,3 +16,14 @@ In this step we will use Power Query to make data cleaning/pre-processing on our
 - Renamed queries and columns with suitable names.
 - Changed columns' data types
 - Removed NULL values in all datasets
+
+### Step 3: Create Your Date Table
+
+You'll need to create a continuous table that covers each full calendar year in the sales data set (starting on January 1st and ending on December 31st. In addition, the table should include:
+- Calendar month name and number
+- Calendar year
+- Fiscal period
+- Fiscal year
+- Fiscal quarter -Quarter - FY (e.g., Q1 - FY2021)
+  
+Seven Sages' Fiscal year begins on October 1st and runs until September 30th. A transaction on Sept 20th 2020 would fall in FY 2020, but a transaction on October 20th would land in FY 2021
