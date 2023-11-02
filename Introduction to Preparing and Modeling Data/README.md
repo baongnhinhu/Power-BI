@@ -45,5 +45,9 @@ To satisfy the CFO's requirements, we will need to calculate Sales, Cost of Sale
 Next we just need to create a visualization to summarize the output of your data model for the CFO. 
 In order to meet the CFO's demands, our fundamental report version will consist of two tabs. One tab will provide a summary of sales data categorized by customer and customer type across quarters, labeled one as `Sale and GM`. The second will simply summarize the percentages of gross profit and unit sales by product and would be labeled `Gross Profit and Unit Sales`. Both tabs feature a concise executive summary at the bottom.
 
+![project1_tab1](https://github.com/baongnhinhu/Power-BI/assets/82852784/7282cdc6-2398-4e86-89f6-5819a5602cf8)
+
+![project1_tab2](https://github.com/baongnhinhu/Power-BI/assets/82852784/85e022b4-2c10-4f69-9948-f50b432e5e94)
+
 
 
