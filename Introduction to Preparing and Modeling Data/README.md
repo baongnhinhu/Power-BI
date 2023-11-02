@@ -32,3 +32,18 @@ You'll need to create a continuous table that covers each full calendar year in 
 We created one Face Table `Monthly Sales Log` with four diminsion tables pointing towards it with an active one to many relationship like the screenshot below:
 ![modelproject 1](https://github.com/baongnhinhu/Power-BI/assets/82852784/9e3f82b7-8ce3-46b5-a43f-9b02176c7310)
 
+### Step 5: Write Your Measures
+To satisfy the CFO's requirements, we will need to calculate Sales, Cost of Sales and Gross Profit Margin in two different currencies.
+- Sales in USD ($)
+- Cost of Sales USD ($)
+- Gross Profit Margin (or GPM) in USD (%)
+- Sales in CAD ($)
+- Unit Sales by Product (%)
+- Share of gross profit by Product type (%)
+
+### Step 6: Create a Report
+Next we just need to create a visualization to summarize the output of your data model for the CFO. 
+In order to meet the CFO's demands, our fundamental report version will consist of two tabs. One tab will provide a summary of sales data categorized by customer and customer type across quarters, labeled one as `Sale and GM`. The second will simply summarize the percentages of gross profit and unit sales by product and would be labeled `Gross Profit and Unit Sales`. Both tabs feature a concise executive summary at the bottom.
+
+
+
