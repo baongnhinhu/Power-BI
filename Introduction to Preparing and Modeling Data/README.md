@@ -30,5 +30,5 @@ You'll need to create a continuous table that covers each full calendar year in 
 
 ### Step 4:  Build Relationships Between Tables
 We created one Face Table `Monthly Sales Log` with four diminsion tables pointing towards it with an active one to many relationship like the screenshot below:
-
+![modelproject 1](https://github.com/baongnhinhu/Power-BI/assets/82852784/9e3f82b7-8ce3-46b5-a43f-9b02176c7310)
 
