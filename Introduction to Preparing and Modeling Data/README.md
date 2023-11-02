@@ -9,4 +9,10 @@ Here is a brief overview of the project steps.
 Use files are `CFO Metrics Tracker.xlsx`, `Customer List (as of FY2021).txt`, `SSBC Product Offerings.pdf`, `USD-CAD Exchange Rates.csv`, `Monthly Sales Logs/` downloaded from Udacity and can be found on Datasets/ folder on this repo.
 
 ### Step 2: Structure, Combine, and Clean the Data
-In this step we will use Power Query to make data cleaning/pre-processing on our datasets
+In this step we will use Power Query to make data cleaning/pre-processing on our datasets:
+- Combining the 12 monthly sales files into `Full 2021 Sales` query for analysis.
+- Merging` Customer List (as of FY2021).txt` and `SSBC Product Offerings.pdf` to `Product_CP`
+- Promoted first rows as headers.
+- Renamed queries and columns with suitable names.
+- Changed columns' data types
+- Removed NULL values in all datasets
