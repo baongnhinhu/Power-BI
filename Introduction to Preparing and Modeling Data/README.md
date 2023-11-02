@@ -26,4 +26,9 @@ You'll need to create a continuous table that covers each full calendar year in 
 - Fiscal year
 - Fiscal quarter -Quarter - FY (e.g., Q1 - FY2021)
   
-Seven Sages' Fiscal year begins on October 1st and runs until September 30th. A transaction on Sept 20th 2020 would fall in FY 2020, but a transaction on October 20th would land in FY 2021
+*Note:* Seven Sages' Fiscal year begins on October 1st and runs until September 30th. A transaction on Sept 20th 2020 would fall in FY 2020, but a transaction on October 20th would land in FY 2021
+
+### Step 4:  Build Relationships Between Tables
+We created one Face Table `Monthly Sales Log` with four diminsion tables pointing towards it with an active one to many relationship like the screenshot below:
+
+
